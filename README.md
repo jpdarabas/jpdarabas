@@ -1,8 +1,10 @@
 ### João Pedro Darabas
-
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpdarabas&theme=tokyonight)
-
-
+ <br>
+#### Kaggle for Machine Learning stuff:
+<a href="https://www.kaggle.com/jpdarabas">
+  <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="200">
+</a>
 <!--
 **jpdarabas/jpdarabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
