@@ -1,5 +1,5 @@
 ### João Pedro Darabas
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpdarabas&theme=tokyonight&hide=css,html)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpdarabas&theme=tokyonight&hide=Jupyter+Notebook)
  <br>
  
 <!--
