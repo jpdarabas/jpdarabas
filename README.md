@@ -1,6 +1,6 @@
 Hi, I'm João Pedro
 ---
-Computer Science student, currently working as a researcher at LabTrans/UFSC. My main interests are Artificial Intelligence, Deep Learning, and Web Scraping.
+Computer Science student, currently working as a researcher at LaPeSD/UFSC. My main interests are Artificial Intelligence, Deep Learning, and Web Scraping.
 
 Languages and tools:
 ---
